@@ -1,21 +1,26 @@
 # Laporan hasil percobaan materi CRUD
 
+Nama: Muhammad Wildan Zhafiri
+NIM: 235150707111048
+
 ## Hasil Percobaan
 
 Berikut adalah hasil dari percobaan CRUD saat dijalankan di browser:
 
-### 1. Tampilan awal (index.php)
+### 1. Halaman Utama (index.php)
 ![image](https://github.com/user-attachments/assets/70fb2e50-ac5f-4d33-a359-4d26f1d96082)
+
+   *index.php akan menampilkan data post yang ada didalam database. Untuk menambahkan data baru, ada link "create" yang mengarahkan ke halaman (`create.php`) untuk membuat post baru.
 
 ### 2. Create (Membuat Data Baru)
    ![image](https://github.com/user-attachments/assets/e3d2a74c-bc7a-4efe-8cdc-d00810392a0a)
    
-   *Form untuk menambahkan data baru. Setelah mengisi form dan mengklik "post", data akan tersimpan di database.*
+   *Terdapat form untuk menambahkan data baru. Setelah mengisi form dan mengklik "post", data akan tersimpan di database.*
 
 ### 3. Read (Menampilkan Data)
    ![image](https://github.com/user-attachments/assets/bcba68e1-8ca9-42f3-a743-0b64a466f2c9)
 
-   *Data yang tersimpan ditampilkan dalam bentuk tabel di halaman utama (`index.php`). Setiap entri memiliki opsi untuk "Edit" dan "Delete".*
+   *Data yang tersimpan ditampilkan dalam bentuk tabel di halaman utama (`index.php`). Setiap post memiliki opsi untuk "Edit" dan "Delete".*
 
 ### 4. Update (Memperbarui Data)
    ![image](https://github.com/user-attachments/assets/6e4b206e-3425-4d27-a9a3-af959064bf14)
@@ -26,7 +31,8 @@ Berikut adalah hasil dari percobaan CRUD saat dijalankan di browser:
 
 ### 5. Delete (Menghapus Data)
    ![image](https://github.com/user-attachments/assets/8a18b278-ad22-48ff-b037-9dae6caf0293)
-   *Data dapat dihapus dengan mengklik tombol "Delete" pada post yang diinginkan. Data tersebut akan dihapus dari database. Sebagai contoh saya mengklik tombol delete pada judul yang kedua.*
+   *Data dapat dihapus dengan mengklik tombol "Delete" pada post yang diinginkan. Data tersebut akan dihapus dari database. Sebagai contoh saya mengklik tombol delete pada judul yang kedua. Sehingga pada tampilan 
+    (`index.php`) judul kedua hilang.*
 
 ## Penjelasan Kode
 
