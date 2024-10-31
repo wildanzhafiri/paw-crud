@@ -11,7 +11,7 @@ Berikut adalah hasil dari percobaan CRUD saat dijalankan di browser:
 ### 1. Halaman Utama (index.php)
 ![image](https://github.com/user-attachments/assets/70fb2e50-ac5f-4d33-a359-4d26f1d96082)
 
-   *index.php akan menampilkan data post yang ada didalam database. Untuk menambahkan data baru, ada link "create" yang mengarahkan ke halaman (`create.php`) untuk membuat post baru.*
+   *(`index.php`) akan menampilkan data post yang ada didalam database. Untuk menambahkan data baru, ada link "create" yang mengarahkan ke halaman (`create.php`) untuk membuat post baru.*
 
 ### 2. Create (Membuat Data Baru)
    ![image](https://github.com/user-attachments/assets/e3d2a74c-bc7a-4efe-8cdc-d00810392a0a)
